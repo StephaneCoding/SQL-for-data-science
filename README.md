@@ -3,4 +3,4 @@ coursera final_task
 
 
 
-link to the work: https://coursera-assessments.s3.amazonaws.com/assessments/1618932906581/27877d8d-152e-4115-d750-f70244639feb/sql_proj.txt
+link to the work: https://coursera-assessments.s3.amazonaws.com/assessments/1618934025339/f903e61d-b6f0-4069-da14-34b0913bcbc5/sql_proj.txt
